@@ -1,0 +1,24 @@
+body{
+    color:#920e5f;
+    background:hsl(323, 51%, 66%) ;
+    margin:0px;
+    font-family:"Dancing Script", sans-serif;
+}
+
+header{
+    border-bottom: solid #920e5f;
+    padding: 20px;
+    font-size: 32px;
+    color: #920e5f;
+}
+section{
+    background: #e77cbe;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
