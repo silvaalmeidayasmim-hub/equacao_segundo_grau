@@ -46,7 +46,7 @@ p{
 }
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 1px solid rgba(146, 5, 75, 0.452);
+    border: 1px solid #d40c7073;
 }
 .categoria h2{
     color: rgb(199, 28, 162);
